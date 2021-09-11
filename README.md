@@ -1,4 +1,5 @@
 # PrayerTime
+**Calculating prayer times depends on very complex equations**<br>
 <p>You can easily calculate prayer times.<br>
 <strong>By year, month, day, time difference, longitude and latitude</strong>, <br>
 
