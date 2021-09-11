@@ -1,5 +1,6 @@
 # PrayerTime
-**Calculating prayer times depends on very complex equations**<br>
+**Calculation of prayer times is based on complex algorithms**<br>
+**Algorithms were written in this project to make it easier for programmers and developers and save time in writing these algorithms from the beginning**<br>
 <p>You can easily calculate prayer times.<br>
 <strong>By year, month, day, time difference, longitude and latitude</strong>, <br>
 
