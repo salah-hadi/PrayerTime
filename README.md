@@ -31,5 +31,7 @@ function **Methods()** that takes 6 parameters</p>
 
 **Like <br>**
 - ![Code](https://user-images.githubusercontent.com/88224966/132951657-a2cbbb9e-97d2-489c-925d-a31bf0ebd2f8.PNG)
+- ![Code](https://user-images.githubusercontent.com/88224966/132952033-6fb4ddc2-15bf-4934-90f0-4c5f67c93b1b.PNG)
+<h4>Congratulations😍, you can get the times now</h4>
 
 
