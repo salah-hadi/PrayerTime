@@ -10,7 +10,7 @@ function **Methods()** that takes 6 parameters</p>
 ![Code](https://user-images.githubusercontent.com/88224966/132946079-40a0e5c3-2ad5-435f-97d4-1089bec0699d.PNG)
 
 <p>There are two ways to get prayer times</p>
-
+<h6>Like</h6>
 - Create a new object from Method. Like the previous picture.
 - Determine the time format like
 - ![Code](https://user-images.githubusercontent.com/88224966/132950886-12128536-cc14-4b2d-9bfe-22af9eb450f3.PNG)
@@ -26,5 +26,5 @@ function **Methods()** that takes 6 parameters</p>
 - result
 - ![Code](https://user-images.githubusercontent.com/88224966/132951399-487e88dc-324f-477d-8a0b-d4a8a5029ea3.PNG)
 
-
+<h1>Or</h1>
 
