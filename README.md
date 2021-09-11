@@ -30,6 +30,6 @@ function **Methods()** that takes 6 parameters</p>
   Create a new object from OnPrayerTime
 </p>
 **Like**
--![Code](https://user-images.githubusercontent.com/88224966/132951657-a2cbbb9e-97d2-489c-925d-a31bf0ebd2f8.PNG)
+- ![Code](https://user-images.githubusercontent.com/88224966/132951657-a2cbbb9e-97d2-489c-925d-a31bf0ebd2f8.PNG)
 
 
