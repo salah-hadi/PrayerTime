@@ -24,7 +24,7 @@ function **Methods()** that takes 6 parameters</p>
 - Function call example
 - ![Code](https://user-images.githubusercontent.com/88224966/132951309-52eff5a1-6ac4-439a-8f12-f1025e4ddbba.PNG)
 - result
-![Code](https://user-images.githubusercontent.com/88224966/132951399-487e88dc-324f-477d-8a0b-d4a8a5029ea3.PNG)
+-![Code](https://user-images.githubusercontent.com/88224966/132951399-487e88dc-324f-477d-8a0b-d4a8a5029ea3.PNG)
 
 
 
