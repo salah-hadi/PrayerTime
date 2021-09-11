@@ -52,21 +52,8 @@ public class Main {
                 System.out.println(Isha);
             }
         });
-
-
-
-       // methods.Start();
-
-
-//        SuperData data = SuperData.getInstance();
-//        System.out.println(" المغرب"+data.FormatTime(methods.getTawqitSunset()));
-//        System.out.println(" شروق"+data.FormatTime(methods.getTawqitSunrise()));
-//        System.out.println(" العصر"+data.FormatTime(methods.getTawqitAlAsr()));
-//        System.out.println(" الضهر "+data.FormatTime(methods.getTawqitAlzuhr()));
-//        System.out.println(" العشاء"+data.FormatTime(methods.getTawqitIsha()));
-//        System.out.println(" الفجر"+data.FormatTime(methods.getTawqitFajr()));
-//        System.out.println("ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ");
-
+        methods.Start();
+        ////////////////////////////////////////////////
         System.out.println(" المغرب"+methods.getTawqitSunset());
         System.out.println(" شروق"+methods.getTawqitSunrise());
         System.out.println(" العصر"+methods.getTawqitAlAsr());
