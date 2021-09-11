@@ -26,7 +26,7 @@ function **Methods()** that takes 6 parameters</p>
 - result
 - ![Code](https://user-images.githubusercontent.com/88224966/132951399-487e88dc-324f-477d-8a0b-d4a8a5029ea3.PNG)
 <br>
-
+<h3>OR</h3>
  Create a new object from OnPrayerTime 
 
 **Like <br>**
