@@ -12,21 +12,21 @@ public class Methods extends Agorithms {
 
 
     /**
-    * Current year to be calculator
+    *  year you want to know the times
      * @param Year
     */
     private int Year;
 
 
     /**
-     * Current Month to be calculator
+     *  the Month you want to know the times
      * @param Month
      */
     private int Month;
 
 
     /**
-     * Current Day to be calculator
+     * the Day you want to know the times
      * @param Day
      */
     private int Day;
@@ -321,7 +321,7 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            
+
             if (this.onPrayerTime != null) onPrayerTime.prayer6(s1);
 
             return s1;

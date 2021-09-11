@@ -5,5 +5,4 @@ public enum Formats {
     H_M_S_24,
     HH_MM_AA_12,
 
-
 }
