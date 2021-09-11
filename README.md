@@ -11,4 +11,7 @@ function **Methods()** that takes 6 parameters</p>
 
 <p>There are two ways to get prayer times</p>
 
-- Create a new object
+- Create a new object.
+    Like the previous picture
+- call time functions .
+    Continue the example
