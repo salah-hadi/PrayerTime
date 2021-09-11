@@ -4,4 +4,6 @@
 
 All you have to do is function call **Methods()** <br>
 function **Methods()** that takes 6 parameters</p>
+**Like**
+![Code](https://user-images.githubusercontent.com/88224966/132946079-40a0e5c3-2ad5-435f-97d4-1089bec0699d.PNG)
 
