@@ -15,9 +15,11 @@ function **Methods()** that takes 6 parameters</p>
 - Determine the time format like
 - ![Code](https://user-images.githubusercontent.com/88224966/132950886-12128536-cc14-4b2d-9bfe-22af9eb450f3.PNG)
 - You can have more than one time format
-1. H_M_24
-2. H_M_S_24
-3. HH_MM_AA_12
+  1. H_M_24      you will get   17:58             ,format 24H
+  2. H_M_S_24    you will get   17:58:3513.0176   ,format 24H
+  3. HH_MM_AA_12 you will get   05:58 PM          ,format 12H AM or PM
+  4. ![Code](https://user-images.githubusercontent.com/88224966/132951026-22dc41d3-56b4-44fd-90cd-928bc7557488.PNG)
+
 
 - call time functions .
     Continue the example
