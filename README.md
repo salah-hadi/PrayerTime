@@ -25,6 +25,6 @@ function **Methods()** that takes 6 parameters</p>
 - ![Code](https://user-images.githubusercontent.com/88224966/132951309-52eff5a1-6ac4-439a-8f12-f1025e4ddbba.PNG)
 - result
 <br>
- ![Code](https://user-images.githubusercontent.com/88224966/132951355-454a387c-abb6-4456-ae71-e66d6e60df5f.PNG)
+![Code](https://user-images.githubusercontent.com/88224966/132951355-454a387c-abb6-4456-ae71-e66d6e60df5f.PNG)
 
 
