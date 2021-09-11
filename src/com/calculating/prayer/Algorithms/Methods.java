@@ -305,9 +305,6 @@ public class Methods extends Agorithms {
         this.onPrayerTime =onPrayerTime;
 
 
-
-
-
     }
     public void Start(){
         getTawqitFajr();
@@ -324,24 +321,22 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer6(s1);
+            
+            if (this.onPrayerTime != null) onPrayerTime.prayer6(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
 
-            if (this.onPrayerTime != null)
-                onPrayerTime.prayer6(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer6(s1);
 
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer6(s1);
+            if (this.onPrayerTime != null)  onPrayerTime.prayer6(s1);
 
             return s1;
 
@@ -355,22 +350,19 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer3(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer3(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer3(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer3(s1);
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer3(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer3(s1);
 
             return s1;
 
@@ -385,22 +377,19 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer4(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer4(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer4(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer4(s1);
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer4(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer4(s1);
 
             return s1;
 
@@ -417,22 +406,19 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer2(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer2(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer2(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer2(s1);
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer2(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer2(s1);
 
             return s1;
 
@@ -449,22 +435,19 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer5(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer5(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer5(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer5(s1);
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer5(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer5(s1);
 
             return s1;
 
@@ -479,22 +462,20 @@ public class Methods extends Agorithms {
         if (Formats.valueOf("H_M_24")==formats){
 
             String s1 = dms.getDM();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer1(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer1(s1);
 
             return s1;
         } else if (Formats.valueOf("H_M_S_24")==formats) {
 
             String s1 = dms.getDMS();
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer1(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer1(s1);
+
             return s1;
 
         } else if(Formats.valueOf("HH_MM_AA_12")==formats){
 
             String s1 = data.FormatTime(dms.getDM());
-            if (this.onPrayerTime != null)
-            onPrayerTime.prayer1(s1);
+            if (this.onPrayerTime != null) onPrayerTime.prayer1(s1);
 
             return s1;
 
