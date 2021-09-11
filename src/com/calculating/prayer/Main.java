@@ -20,39 +20,8 @@ public class Main {
 
         );
 
-        methods.setOnPrayerTime(Formats.HH_MM_AA_12, new OnPrayerTime() {
-            @Override
-            public void prayer1(String Fajr) {
-                System.out.println(Fajr);
-            }
-
-            @Override
-            public void prayer2(String Sunrise) {
-                System.out.println(Sunrise);
-            }
-
-            @Override
-            public void prayer3(String Alzuhr) {
-                System.out.println(Alzuhr);
-            }
-
-            @Override
-            public void prayer4(String AlAsr) {
-                System.out.println(AlAsr);
-            }
-
-            @Override
-            public void prayer5(String Sunset) {
-                System.out.println(Sunset);
-            }
-
-            @Override
-            public void prayer6(String Isha) {
-
-                System.out.println(Isha);
-            }
-        });
-        methods.Start();
+        methods.setOnPrayerTime(Formats.HH_MM_AA_12, null);
+       // methods.Start();
 
 
 //        SuperData data = SuperData.getInstance();
@@ -63,12 +32,43 @@ public class Main {
 //        System.out.println(" العشاء"+data.FormatTime(methods.getTawqitIsha()));
 //        System.out.println(" الفجر"+data.FormatTime(methods.getTawqitFajr()));
 //        System.out.println("ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ");
-//        System.out.println(" المغرب"+methods.getTawqitSunset());
-//        System.out.println(" شروق"+methods.getTawqitSunrise());
-//        System.out.println(" العصر"+methods.getTawqitAlAsr());
-//        System.out.println(" الضهر "+methods.getTawqitAlzuhr());
-//        System.out.println(" العشاء"+methods.getTawqitIsha());
-//        System.out.println(" الفجر"+methods.getTawqitFajr());
+        System.out.println(" المغرب"+methods.getTawqitSunset());
+        System.out.println(" شروق"+methods.getTawqitSunrise());
+        System.out.println(" العصر"+methods.getTawqitAlAsr());
+        System.out.println(" الضهر "+methods.getTawqitAlzuhr());
+        System.out.println(" العشاء"+methods.getTawqitIsha());
+        System.out.println(" الفجر"+methods.getTawqitFajr());
     }
-   
+//   new OnPrayerTime() {
+//        @Override
+//        public void prayer1(String Fajr) {
+//            System.out.println(Fajr);
+//        }
+//
+//        @Override
+//        public void prayer2(String Sunrise) {
+//            System.out.println(Sunrise);
+//        }
+//
+//        @Override
+//        public void prayer3(String Alzuhr) {
+//            System.out.println(Alzuhr);
+//        }
+//
+//        @Override
+//        public void prayer4(String AlAsr) {
+//            System.out.println(AlAsr);
+//        }
+//
+//        @Override
+//        public void prayer5(String Sunset) {
+//            System.out.println(Sunset);
+//        }
+//
+//        @Override
+//        public void prayer6(String Isha) {
+//
+//            System.out.println(Isha);
+//        }
+//    }
 }
